@@ -30,11 +30,9 @@ A clean, simple looking link shortener built using Laravel 8 with Tailwind CSS. 
     php artisan serve
     ```
 
-## Support Me
-
 
 ```
-Default Credential
+Login Credential for testing
 
 Username: user@user.com
 Password: yourPassword

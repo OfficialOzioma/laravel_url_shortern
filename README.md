@@ -13,9 +13,9 @@ A clean, simple looking link shortener built using Laravel 8 with Tailwind CSS. 
     ```
     composer install
     ```
--   Rename .env.example to .env (Windows)
+-   Create a .env file
     ```
-    move .env.example .env
+    .env 
     ```
 -   Generate key
     ```

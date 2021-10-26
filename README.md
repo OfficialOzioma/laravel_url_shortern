@@ -7,7 +7,7 @@ A clean, simple looking link shortener built using Laravel 8 with Tailwind CSS. 
 
 -   Pull code from repo
     ```
-    git pull https://github.com/KevinYobeth/Laravel-LinkShortener
+    git pull https://github.com/OfficialOzioma/laravel_url_shortern.git
     ```
 -   Install dependencies
     ```
